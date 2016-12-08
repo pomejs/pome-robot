@@ -1,0 +1,25 @@
+{
+  "name": "pome-robot",
+  "version": "0.1.4",
+  "private": false,
+  "dependencies": {
+    "socket.io": "^1.7.1",
+    "socket.io-client": "^1.7.1",
+    "underscore": "^1.8.3"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "d33db82d670b7a5d21c95e15f91548f8a8ba7821",
+  "description": "pome-robot is a simple tool to benchmark the socket.io server's performance.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NetEase/pome-robot.git"
+  },
+  "keywords": [
+    "pome",
+    "client",
+    "robot"
+  ],
+  "author": "palmtoy",
+  "license": "MIT"
+}
